@@ -172,6 +172,18 @@ Di sisi `client`, kamu tidak diperbolehkan untuk menyimpan data `Apod (Astronomy
     - Yang dapat menghapus data hanya user yang membuat data tersebut
     - Tampilan di `client` harus langsung ter-update ketika data berhasil dihapus dan tidak boleh *refresh*/*reload*.
 
+
+
+
+
+
+
+
+
+
+
+
+
 - **Update a apod** (20 points) 🚀
   - URL:
     - `PUT http://your.server/apods/:id`
